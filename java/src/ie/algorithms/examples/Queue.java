@@ -1,4 +1,4 @@
-package algorithms.examples;
+package ie.algorithms.examples;
 
 public class Queue {
     class Node{

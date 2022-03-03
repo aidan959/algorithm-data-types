@@ -103,7 +103,7 @@ public class SortedLL
         // NEVER MIND THIS I LEARNED ABOUT RUNTIME EXCEPTIONS
         // these just raise errors that will happen at run time
         if(head == null){
-            throw new RuntimeException("");
+            throw new EmptyLinkedListException("Empty linked list :(");
         }
         // we save this temporary variable to return the value before pulling it
         // from the list - the head = head.next cannot execute AFTER return

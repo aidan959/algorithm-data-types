@@ -1,5 +1,5 @@
-package algorithms;
-import algorithms.examples.*;
+package ie.algorithms;
+import ie.algorithms.examples.*;
 public class Main {
     public static void main(String[] args){
         
