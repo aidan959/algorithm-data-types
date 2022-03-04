@@ -140,9 +140,13 @@ public class SortedLL
         list.remove(10);
         // inserts random data
         list.insertSort((int)(100*Math.random()));
+        list.display();
         list.insertSort((int)(100*Math.random()));
+        list.display();
         list.insertSort((int)(100*Math.random()));
+        list.display();
         list.insertSort((int)(100*Math.random()));
+        list.display();
         list.insertSort((int)(100*Math.random()));
         list.insertSort((int)(100*Math.random()));
         list.insertSort((int)(100*Math.random()));
